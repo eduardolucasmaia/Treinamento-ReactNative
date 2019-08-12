@@ -1,0 +1,3 @@
+eduardomaia
+loqjLP5uZh6eGgzJ
+mongodb+srv://eduardomaia:<password>@cluster0-biepo.mongodb.net/test?retryWrites=true&w=majority
